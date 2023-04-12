@@ -18,7 +18,7 @@
 - 📫 How to reach me **ajeso6827@gmail.com**
 - 📝 Checkout my [resume](https://drive.google.com/file/d/1__6wqId3vySCyby_BE4IK5MpSp28WnUO/view?usp=sharing)
 
-<p align="center"><u>"“Great things are not done by impulse, but by a series of small things brought together.”.</u>"<br> Van Gogh</p>
+<p align="center"><u>"Great things are not done by impulse, but by a series of small things brought together.”</u><br> Van Gogh</p>
 <br/>
 
 # 📊 GitHub Stats:
