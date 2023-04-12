@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I'm Ajeso</h1>
-<h3 align="center">A Front-End Developer </h3>
 
 <a target="_blank" href="https://www.linkedin.com/in/monicah-ajeso-b1a083198/">
    <img alt="LinkedIn - Ajeso" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
