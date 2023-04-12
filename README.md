@@ -1,4 +1,5 @@
-### Hi, I'm Ajeso 👋
+<h1 align="center">👋 Hi, I'm Ajeso</h1>
+<h3 align="center">A Front-End Developer </h3>
 
 <a target="_blank" href="https://www.linkedin.com/in/monicah-ajeso-b1a083198/">
    <img alt="LinkedIn - Ajeso" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -8,7 +9,18 @@
 
 ### I'm Poised to transition to **Senior Front-End Engineer** along the line.
 
-### I find most of my enjoyable moments when spent with others and I ONLY wish this FIELD offered more time😪!
+- 🔭 I’m currently working on **multiple projects**
+- 🌱 I’m currently learning **React Native.**
+- 👯 I’m looking to collaborate on **any kind of project.**
+- 🤝 I’m looking for help with **networking**
+- 💬 Ask me about **anything you'd like.**
+- 📫 How to reach me **ajeso6827@gmail.com**
+- 📝 Checkout my [resume](https://drive.google.com/file/d/1__6wqId3vySCyby_BE4IK5MpSp28WnUO/view?usp=sharing)
+
+  <img align="right" alt="GIF" src="https://res.cloudinary.com/codelikeagirl29/image/upload/v1665931318/developer_vpdww5.svg" width="360px"/>
+
+<p align="center"><u>"“Great things are not done by impulse, but by a series of small things brought together.”.</u>"<br> Van Gogh</p>
+<br/>
 
 # 📊 GitHub Stats:
 
