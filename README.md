@@ -9,6 +9,8 @@
 
 ### I'm Poised to transition to **Senior Front-End Engineer** along the line.
 
+ <img align="right" alt="GIF" src="https://res.cloudinary.com/codelikeagirl29/image/upload/v1665931318/developer_vpdww5.svg" width="360px"/>
+
 - 🔭 I’m currently working on **multiple projects**
 - 🌱 I’m currently learning **React Native.**
 - 👯 I’m looking to collaborate on **any kind of project.**
@@ -16,8 +18,6 @@
 - 💬 Ask me about **anything you'd like.**
 - 📫 How to reach me **ajeso6827@gmail.com**
 - 📝 Checkout my [resume](https://drive.google.com/file/d/1__6wqId3vySCyby_BE4IK5MpSp28WnUO/view?usp=sharing)
-
-  <img align="right" alt="GIF" src="https://res.cloudinary.com/codelikeagirl29/image/upload/v1665931318/developer_vpdww5.svg" width="360px"/>
 
 <p align="center"><u>"“Great things are not done by impulse, but by a series of small things brought together.”.</u>"<br> Van Gogh</p>
 <br/>
